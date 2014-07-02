@@ -1,5 +1,9 @@
 # Code & Supply Brand Guidelines
 
+## Ideals
+
+- Try to build a natural community by relying on people to refer their friends
+
 ## Language
 
 Descriptions
