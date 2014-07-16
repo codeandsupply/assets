@@ -18,6 +18,7 @@ Banned words list:
 Preferences
 
 - "software developers","builders","makers" over "programmers"/"coders"
+- "event" over "meeting"/"meetup"
 
 ## Stylized Name
 
