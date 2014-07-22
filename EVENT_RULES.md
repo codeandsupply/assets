@@ -9,3 +9,5 @@ that any event held under the Code & Supply banner follow these few rules.
 - Signage created using the standard template
 - At least one sign bearing the event name and C&S logo on the front of the
   host building, ideally signs at each turn
+- No sales pitch events. All events must be entertaining on their face and
+  not a sales pitch
