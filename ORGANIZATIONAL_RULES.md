@@ -1,0 +1,1 @@
+- *Plan in advance* - Sponsors and events should be planned for 3 months
