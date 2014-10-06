@@ -11,3 +11,4 @@ that any event held under the Code & Supply banner follow these few rules.
   host building, ideally signs at each turn
 - No sales pitch events. All events must be entertaining on their face and
   not a sales pitch
+- All events are subject to the [Code & Supply code of conduct](http://www.codeandsupply.co/code-of-conduct/)
