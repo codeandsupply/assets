@@ -3,12 +3,22 @@
 In order to provide a consistently good experience for our guests, we require
 that any event held under the Code & Supply banner follow these few rules.
 
-- All events must be posted to Meetup by Justin. Group leaders should email 
-  Justin with events they'd like to hold.
-- Events start with the [Code & Supply intro presentation](https://docs.google.com/presentation/d/1s47uqhIDKbWsNU3jrjwBrhqSbVzqCfeEXSiw7_g17W4/edit?usp=sharing)
-- Signage created using the [standard template](https://docs.google.com/document/d/1-fbuoF7z2YEnss0y1ahFe9BKjZ74VaMKMbGVrLoPVB4/edit?usp=sharing)
-- At least one sign bearing the event name and C&S logo on the front of the
-  host building, ideally signs at each turn
-- No sales pitch events. All events must be entertaining on their face and
-  not a sales pitch
+- C&S events need to play the slides from the website at the beginning of events
+
+- Use static cling signs
+
+- all C&S events have a code of conduct available on our website
+
+- event titles should be approachable
+
+- every six months, there should be an intro to each language labeled as a "Refresher" so that people interested in that language can have a place to jump in and start attending events
+
+- For merging groups, we should cross post events for a few months, but continuously push people to the C&S meet up. Long term, cross posting causes issues. 
+
+- Sub groups should still maintain its own Twitter account if it'd like to. Mailing list is cool too. Promoting a dedicated channel in the C&S slack would be really good to do. 
+
+- there are 3 roles to fill for each event. Presented, Emcee, and Greeter. These can't be the same person because it means one of the roles would suffer. 
+
+- No sales pitch events. All events must be entertaining on their face and not a sales pitch
+
 - All events are subject to the [Code & Supply code of conduct](http://www.codeandsupply.co/code-of-conduct/)
