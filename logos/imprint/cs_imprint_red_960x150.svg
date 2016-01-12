@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="960"
+   height="150"
+   id="svg3336"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cs_imprint_red_960x150.svg"
+   inkscape:export-filename="/Users/colin/Source/Code and Supply/assets/logos/imprint/cs_imprint_red_960x150.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3352">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3350" />
+  <sodipodi:namedview
+     pagecolor="#b22d00"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     id="namedview3348"
+     showgrid="false"
+     inkscape:zoom="1.13"
+     inkscape:cx="518.6938"
+     inkscape:cy="-48.437248"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3336"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g4276"
+     transform="matrix(0.35143918,0,0,0.35143918,401.45334,96.28413)"
+     style="opacity:1">
+    <polygon
+       transform="translate(-131.5,-301.56277)"
+       id="polygon3340"
+       points="355,444 139,416 139,66 355,38 571,66 571,416 "
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:15" />
+    <text
+       id="text3342"
+       font-size="160"
+       y="-56.562759"
+       x="22.5"
+       style="font-size:160px;font-family:Futura;text-anchor:start;fill:#b22d00">C</text>
+    <text
+       id="text3344"
+       font-size="400"
+       y="98.437225"
+       x="239.5"
+       style="font-size:400px;font-family:Futura;text-anchor:middle;fill:#b22d00">&amp;</text>
+    <text
+       id="text3346"
+       font-size="160"
+       y="-56.562759"
+       x="423.5"
+       style="font-size:160px;font-family:Futura;text-anchor:end;fill:#b22d00">S</text>
+  </g>
+</svg>
